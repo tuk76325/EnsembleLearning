@@ -18,7 +18,7 @@ that shelf space among the product types.
 
 # Monetization of User Data
 How could the company use these data sets to generate value, and what analytics models might they need to do it?
-See attached datasets in MonetizationDatasets
+See attached datasets in MonetizationDatasets.
 
 # Drug Discovery
 \[REDACTED FOR PRIVACY], a public-private biotechnology company, uses historical and medical data, analytics and artificial intelligence to identify which virus families are most likely to cause major outbreaks of new viruses and develop new antiviral drugs before they are needed. When a new virus infects humans, our immune systems are powerless to stop it from replicating. Viruses in the same family share inherited methods for hijacking cells to essentially become virus factories (host-cell machinery essential for virus infection and replication). \[REDACTED FOR PRIVACY] scientists identify those common factors within virus families and exploit them as a viral Achilles heel.
